@@ -181,11 +181,66 @@ public class a{
     //     System.out.println("7*i="+i);
     // }
 
-    int n=7;
-    for(int i=1; i<=10;i++){
-        System.out.println(n+"*"+i+"="+n*i);
-    }
+    // int n=7;
+    // for(int i=1; i<=10;i++){
+    //     System.out.println(n+"*"+i+"="+n*i);
+    // // }
 
+    //some of question
+
+
+    // Scanner sc=new Scanner(System.in);
+    // System.out.println("Enter the value : ");
+    // int n=sc.nextInt();
+    // sc.close();
+    // System.out.println("You Entered  the value is : "+n);
+    // for(int i=0;i<=n;i++){
+    //     System.out.println(n+"*"+i+"="+n*i);
+    // }
+
+// Scanner sc=new Scanner(System.in);
+//     System.out.println("Enter the value : ");
+//     int n=sc.nextInt();
+//     sc.close();
+//     System.out.println("You Entered  the value is : "+n);
+//      for(int i=0;i<=n;i++){
+//         if(i%3==0){
+//             System.out.println("this number "+i+" "+"is divisible by 3");
+//             i++;
+//         }
+   // }
+
+
+//    Scanner sc=new Scanner(System.in);
+//     System.out.println("Enter the value : ");
+//     int n=sc.nextInt();
+//     sc.close();
+//     System.out.println("You Entered  the value is : "+n);
+//      for(int i=0;i<=n;i++){
+//         if(i%2!=0){
+//             System.out.println("the odd number upto 0 to "+n+" "+"are"+" "+i);
+//             i++;
+//         }
+//    }
+
+
+// Scanner sc=new Scanner(System.in);
+//     System.out.println("Enter the value : ");
+//     int n=sc.nextInt();
+//     sc.close();
+//     System.out.println("You Entered  the value is : "+n);
+//      for(int i=1;i<=n;i=i+2){
+//         System.out.println("the odd numbers are "+i);
+//         }
+//         for(int i=2;i<=n;i=i+2){
+//             System.out.println("the even numbers are "+i);
+//             }
+
+   
+
+   
+
+    
        }
 
     }
