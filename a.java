@@ -236,10 +236,54 @@ public class a{
 //             System.out.println("the even numbers are "+i);
 //             }
 
-   
+//    for(int i=1;i<=5;i++){ //outer forloop
 
-   
+//     for(int j=1;j<=i;j++){
+//         System.out.print("*");//inner forloop
 
+//     }
+//     System.out.println();
+    
+//    }
+
+
+
+// for(int i=5;i>=1;i--){ //outer forloop
+
+//     for(int j=1;j<=i;j++){
+//         System.out.print("*");//inner forloop
+
+//     }
+//     System.out.println();
+    
+//    }
+
+//jump statement
+
+//break
+// for(int i=0;i<=10;i++){
+//     if(i==7){
+        
+//         break;
+//     }
+//     System.out.println(i);
+// }
+//continue
+
+// for(int i=0;i<=10;i++){
+//     if(i==7){
+        
+//         continue;
+//     }
+//     System.out.println(i);
+// }
+// for(int i=0;i<=10;i++){
+//     if(i==7||i==5){
+        
+//         continue;
+//     }
+//     System.out.println(i);
+// }
     
        }
 
