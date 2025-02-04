@@ -104,10 +104,10 @@
         
 //     }
 // }
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class a{
-    public static void main(String[] args){
+// public class a{
+//     public static void main(String[] args){
         //  Scanner sc=new Scanner(System.in);
         // System.out.println("enter your name");
         // String a=sc.nextLine();
@@ -285,6 +285,61 @@ public class a{
 //     System.out.println(i);
 // }
     
-       }
 
-    }
+
+//array
+//a variable which can hold the value of multiple variable
+
+//single dimensional array
+//when linit is know int a[]=new int[5]
+//when limit is unknown int a[]={100,200,300,400}
+
+//int a []= {1,2,3,4,12,18,7,24,564,363633,434,253,767,77536};
+//}
+//}
+
+// public class a{
+//     public static void main(String[] args){
+//         int b []={1,321,143,4,2341241,5634,4143,565524,7,85663,234,253,5656,8566,34};
+
+// System.out.println(b[9]);
+// System.out.println(b.length);
+// for(int i=0;i<=b.length;i++){
+//     System.out.println(b[i]);
+// }
+
+// int a[][]={{100,200},{200,400},{400,600}};
+// for(int i=0;i<a.length;i++)
+// {
+//     for(int j=0;j<a[i].length;j++)
+//     {
+//         System.out.println(a[i][j]);
+//     }
+// }
+
+
+//     }
+// }
+
+//strings methods
+// public class a{
+//     public static void main(String[] args) {
+//         // String s="welcome";
+//         // System.out.println(s.length());//lenght of the string
+//         String a="Who are";
+//         String b=" you";
+//         // System.out.println(a.concat(b));
+//         //System.out.println(a.charAt(5));
+//         // System.out.println(a.contains("o"));
+//         // System.out.println(a.equals("who are"));
+//         // System.out.println(a.equals(b));
+//         // System.out.println(a.equals("who are     ".trim()));
+//         // System.out.println(a.equalsIgnoreCase("who are     "));
+//         //System.out.println(a.substring(0,3 ));//start index from 0 and end index is from start from 1
+//         //System.out.println(a.toLowerCase());
+//         //System.out.println(a.toUpperCase());
+
+       
+//     }
+// }
+
