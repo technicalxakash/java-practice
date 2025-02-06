@@ -343,3 +343,25 @@
 //     }
 // }
 
+// public class a{
+//     public static void main(String[] args) {
+
+// int a[][]={{100,200},{200,400},{400,600}};
+// for(int i=0;i<=a.length-1;i++)
+// {
+//     for(int j=0;j<a[i].length;j++)
+//     {
+//         System.out.println(a[i][j]);
+//     }
+// }
+// }
+// }
+
+
+//class is a collection of variables and methods
+//method is a block of code which contains a logic
+//object is a instance of class
+//main():this is a method where actual execution start
+//void: return type
+
+
