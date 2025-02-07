@@ -356,7 +356,19 @@
 // }
 // }
 // }
-
+// public class Main {
+//     public static void main(String[] args) {
+//       System.out.println("Hello World");
+//     }
+//   }
+//   public class Main {
+//     int x = 5;
+  
+//     public static void main(String[] args) {
+//       Main myObj = new Main();
+//       System.out.println(myObj.x);
+//     }
+//   }
 
 //class is a collection of variables and methods
 //method is a block of code which contains a logic
