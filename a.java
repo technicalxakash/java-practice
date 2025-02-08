@@ -377,3 +377,35 @@
 //void: return type
 
 
+// public class Main {
+//     int x = 5;
+//     int y = 3;
+//   }
+
+//   public class Main {
+//     int x = 5;
+  
+//     public static void main(String[] args) {
+//       Main myObj = new Main();
+//       System.out.println(myObj.x);
+//     }
+//   }
+//   public class Main {
+//     int x;
+  
+//     public static void main(String[] args) {
+//       Main myObj = new Main();
+//       myObj.x = 40;
+//       System.out.println(myObj.x);
+//     }
+//   }
+
+//   public class Main {
+//     int x = 10;
+  
+//     public static void main(String[] args) {
+//       Main myObj = new Main();
+//       myObj.x = 25; // x is now 25
+//       System.out.println(myObj.x);
+//     }
+//   }
