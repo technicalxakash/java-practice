@@ -409,3 +409,29 @@
 //       System.out.println(myObj.x);
 //     }
 //   }
+
+// public class a{
+
+//     int id;            //class variable
+//     String name;
+//     int depno;
+ 
+//     void display(){                  //class method
+//         System.out.println("Student id is "+id); 
+//         System.out.println("Student name is "+name);
+//         System.out.println("Student depno is "+depno);
+
+//     }
+
+
+//     public static void main(String[] args) {
+
+//         a ab=new a();  //ab is the refernece variable
+//         ab.id=12;
+//         ab.name="akash";
+//         ab.depno=101;
+//         ab.display();
+        
+//     }
+// }
+
