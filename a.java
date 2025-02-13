@@ -449,4 +449,23 @@
 //       System.out.println(myObj.x); // Print the value of x
 //     }
 //   }
-  
+  //method
+// public class a{
+//     int id;
+//     char name;
+
+//     void getvalue(int i ,char a){
+//         id=i;
+//         name=a;
+//     }
+//     void display(){
+//         System.out.println(id+""+name);
+//     }
+// public static void main(String[] args) {
+//     a ab=new a();
+//     ab.getvalue(10,'a');
+//     ab.display();
+// }
+// }
+
+
