@@ -1,21 +1,24 @@
-public class b{
+// public class b{
 
-    int id;
-    String name;
+//     int id;
+//     String name;
 
-    b(){
+//     b(){
 
-        id=10;
-        name="akash";
-    }
+//         id=10;
+//         name="akash";
+//     }
 
-    void display(){
-        System.out.println("the id is"+" "+id +" "+"the name is "+name);
-    }
+//     void display(){
+//         System.out.println("the id is"+" "+id +" "+"the name is "+name);
+//     }
 
-    public static void main(String[] args) {
-        b ce=new b();
-        ce.display();
-    }
+//     public static void main(String[] args) {
+//         b ce=new b();
+//         ce.display();
+//     }
 
-}
+// }
+
+
+//Access modifier
