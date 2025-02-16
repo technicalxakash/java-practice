@@ -1,3 +1,4 @@
+//constructor
 // public class b{
 
 //     int id;
@@ -21,4 +22,44 @@
 // }
 
 
-//Access modifier
+//Access modifier = define the scope of variable and methods
+
+//private = access within a class
+
+// class a{
+//    private int a=10;
+   
+//    private void main(){
+
+//    }
+
+// }
+// public class b {
+
+//     public static void main(String[] args) {
+//         a obj=new a();
+//         obj.
+//     }
+// }
+
+// default = it can be acceseesd only within the package
+
+
+// class a{
+//      int a=10;
+    
+//      void main(){
+ 
+//     }
+ 
+//  }
+//  public class b {
+ 
+//      public static void main(String[] args) {
+//          a obj=new a();
+//          obj.a=10;
+         
+//      }
+//  }
+
+//protected=it can be accessed with the other package also but by only using sub class
