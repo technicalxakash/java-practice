@@ -4,13 +4,13 @@
 //     int id;
 //     String name;
 
-//     b(){
+//     b(){//constructor
 
 //         id=10;
 //         name="akash";
 //     }
 
-//     void display(){
+//     void display(){//method
 //         System.out.println("the id is"+" "+id +" "+"the name is "+name);
 //     }
 
@@ -62,4 +62,68 @@
 //      }
 //  }
 
-//protected=it can be accessed with the other package also but by only using sub class
+//protected=it can be accessed with the other package also but by only using sub class(protected)
+
+//public = it can be accessed anywhere
+
+
+//java packages =packages is a collection of class/interface/otherfiles
+
+
+//1)built-in packages=which is already available in java
+//2)user defined packages=the packages created by user
+
+
+
+
+
+// public class b {
+
+//     int a;
+//     int b;
+//     void sum(){
+//         a=10;
+//         b=20;
+//         System.out.println(a+b);
+
+//     }
+//     public static void main(String[] args) {
+//         b obj=new b();
+//         obj.sum();
+//     }
+// }
+
+
+//overloading
+//overloading methods // constructor with same name but different parameters
+
+// public class b {
+//     int a;
+//     int b;
+
+//     // First method with no parameters
+//     void sum() {
+//         a = 10;
+//         b = 20;
+//         System.out.println(a + b);
+//     }
+
+//     // Overloaded method with two parameters
+//     void sum(int x, int y) {
+//         a = x;
+//         b = y;
+//         System.out.println(a + b);
+//     }
+
+//     // Overloaded method with three parameters
+//     void sum(int x, int y, int z) {
+//         System.out.println(x + y + z);
+//     }
+
+//     public static void main(String[] args) {
+//         b obj = new b();
+//         obj.sum();         // Calls sum() with no parameters
+//         obj.sum(5, 15);    // Calls sum(int x, int y)
+//         obj.sum(3, 6, 9);  // Calls sum(int x, int y, int z)
+//     }
+// }
