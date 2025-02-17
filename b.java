@@ -96,7 +96,7 @@
 
 //overloading
 //overloading methods // constructor with same name but different parameters
-
+//1)method overloading
 // public class b {
 //     int a;
 //     int b;
@@ -126,4 +126,29 @@
 //         obj.sum(5, 15);    // Calls sum(int x, int y)
 //         obj.sum(3, 6, 9);  // Calls sum(int x, int y, int z)
 //     }
+// }
+
+//2)constructor overloading
+
+// public class b {
+//       int a;
+//       int numb;
+
+//       b(){
+//         a=10;
+//         numb=30;
+//         System.out.println(a+numb);
+//       }
+//       b(int x,int y){
+//         a=x;
+//         numb=y;
+//         System.out.println(a+numb);
+//       }
+//       b(int x, int y,int z){
+        
+//         System.out.println(x+y+z);
+//       }
+//     public static void main(String[] args) {
+//         b obj = new b(10,22,90);
+//     }    
 // }
