@@ -152,3 +152,29 @@
 //         b obj = new b(10,22,90);
 //     }    
 // }
+
+
+// public class b{
+
+//     int id;
+//     String name;
+
+//     b(){//constructor
+
+//         id=10;
+//         name="akash";
+//         System.out.println("the id is"+" "+id +" "+"the name is "+name);
+//     }
+
+//     // void display(){//method
+//     //     System.out.println("the id is"+" "+id +" "+"the name is "+name);
+//     // }
+
+//     public static void main(String[] args) {
+//         b ce=new b();
+//         //ce.display();
+//     }
+
+// }
+
+
