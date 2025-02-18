@@ -120,3 +120,24 @@
 //        //yak andre a parent class
 //     }
 // }
+
+
+//this keyword
+// public class text {
+
+//     int a,b;//class variable
+//     void getvalues(int a,int b){ //method varibales
+//         this.a=a;//used at a time 
+//         this.b=b;
+//     }
+//     void show(){
+//         System.out.println("the value of a is "+a);
+//         System.out.println("the value of b is "+b);
+//         System.out.println("The value of a and b are " + (a + b));
+//     }
+//     public static void main(String[] args) {
+//         text thisk=new text();
+//         thisk.getvalues(12, 40);
+//         thisk.show();
+//     }
+// }
