@@ -141,3 +141,47 @@
 //         thisk.show();
 //     }
 // }
+
+//system.out.println=why it is taken, it is combination of classname,variable,method
+// system=classname
+// out=variable
+// println=method
+// class system{
+//     static Printstream out
+// }//static is a keyword it should never change
+
+ //final keyword
+//  public class text {
+ 
+//     final int a=10;
+//     public static void main(String[] args) {
+//         text obj=new text();
+//         obj.a=20;//we can't change the initial a value because we use final keyword itcausing error
+//         //variable=cannot be changed the value of variables
+//         //method=method can be overridden in child class
+//         //class=class can not be extended into other class 
+//     }
+//  }
+
+
+
+//static =it is applicable for both methods and variables
+//static variables and methods can directly accessthrough class name
+// public class text {
+
+//     int a;//non static
+//     static int b;//static
+//     static void m1(){
+//         System.out.println("this is static method");
+//     }
+//     void m2(){
+//         System.out.println("this is non static method");
+//     }
+//     public static void main(String[] args) {
+//         b=100;
+//         m1();   //m1 ge object tagondilla direct access madtaidhivi
+//         text obj=new text();
+//         obj.a=1000;
+//         obj.m2();      //m2 static alla aduke obj create madhidivi
+//     }
+// }
