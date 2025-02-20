@@ -246,5 +246,26 @@
 //     }
 // }
 
+//execption=it is an abnormal conditions / it is an event which will cause terminations of your program
+//1)checked execption=java itself popout the error ex-interrupted exections,file not found exceptions
+//2)unchecked exceptions = exceptions which are not checked/indentified by the compiler
+  //1)arthematic exceptions
+  //2)null point exceptions 
+  //3)arrayindex out of bound exceptions
 
+//ex=unchecked exceptions
+public class text {
+
+    public static void main(String[] args) {
+        //int a=10;
+        //System.out.println(a/0);//arthematic eceptions
+
+        // String s = null;
+        // System.out.println(s.length());     //NullPointerException
+
+        // int a[]=new int[5];
+        // a[10]=50;                 //ArrayIndexOutOfBoundsException
+
+    }
+}
 
