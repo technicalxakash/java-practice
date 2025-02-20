@@ -167,6 +167,8 @@
 
 //static =it is applicable for both methods and variables
 //static variables and methods can directly accessthrough class name
+//variables herbeku method static herbeku
+
 // public class text {
 
 //     int a;//non static
@@ -185,3 +187,64 @@
 //         obj.m2();      //m2 static alla aduke obj create madhidivi
 //     }
 // }
+
+//interface contains static and final keyword by default
+//interface contains abstract method conatins defination but not the body
+//methods in inheritance are public by default
+//we can interface with interface keyword
+//a class can be extened to another class
+//interface to class we use implement
+//class to interface is not posiible 
+//interface to interface is possible
+
+//interface in java is a blue print of class
+
+// interface testint{
+//     int a=10;
+//     void m1(); //abstract method by default public
+// }
+
+// public class text implements testint{
+
+
+
+//     public void m1(){
+//         System.out.println(a);
+//     }
+//     public static void main(String[] args) {
+//         text obj=new text();
+//         obj.m1();
+//     }
+// }
+
+
+// interface one{
+//     int a=100;
+//     void m1();
+// }
+
+
+// interface two{
+//     int b=300;
+//     void m2();
+// }
+
+// public class text implements one,two{
+//     public void m1(){
+//         System.out.println(a);
+//     }
+
+
+//     public void m2(){
+//         System.out.println(b);
+//     }
+
+//     public static void main(String[] args) {
+//         text obj=new text();
+//         obj.m1();
+//         obj.m2();
+//     }
+// }
+
+
+
