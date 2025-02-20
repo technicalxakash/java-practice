@@ -254,18 +254,18 @@
   //3)arrayindex out of bound exceptions
 
 //ex=unchecked exceptions
-public class text {
+// public class text {
 
-    public static void main(String[] args) {
-        //int a=10;
-        //System.out.println(a/0);//arthematic eceptions
+//     public static void main(String[] args) {
+//         //int a=10;
+//         //System.out.println(a/0);//arthematic eceptions
 
-        // String s = null;
-        // System.out.println(s.length());     //NullPointerException
+//         // String s = null;
+//         // System.out.println(s.length());     //NullPointerException
 
-        // int a[]=new int[5];
-        // a[10]=50;                 //ArrayIndexOutOfBoundsException
+//         // int a[]=new int[5];  //a du lenght 5 aste  //a of 10 ge 50 assign madu antaidivi
+//         // a[10]=50;                 //ArrayIndexOutOfBoundsException
 
-    }
-}
+//     }
+// }
 
