@@ -269,16 +269,51 @@
 //     }
 // }
 
-// import java.io.*;
+// public class text {
 
-// class text {
-//     public static void main(String[] args)
-//     {
-//         int n = 10;
-//         int m = 0;
+//   public static void main(String[] args) {
+    // String s="123";
+    // int i=Integer.parseInt(s);   //string to integer
+    // System.out.println(i);
+    //but in the place integer if we put string it causes exception
 
-//         int ans = n / m;
+    // String s="abc";
+    // int i=Integer.parseInt(s);   
+    // System.out.println(i);             //NumberFormatException
 
-//         System.out.println("Answer: " + ans);
-//     }
+
+//   }
 // }
+
+//execption handling 
+//1)try and catch=unchecked exceptions
+//2)throws=checked exceptions
+
+// public class text {
+
+//   public static void main(String[] args) throws Exception {
+//     String s="abs";
+//     int i=Integer.parseInt(s);    //NumberFormatException
+//     Thread.sleep(5000);     //checked exceptions
+//   }
+// }
+
+//unchecked exceptions
+// public class text {
+
+//   public static void main(String[] args) {
+//     int a=20;
+//     try{
+//       System.out.println(a/0);
+//     }
+//     catch(Exception e){
+//       System.out.println("entered into catch block");    //unchecked exection na bandre bere block na exceute madtivi ade catch block it is not stoping a programme
+
+//     }
+//    finally{
+//     System.out.println("entered into final block");   //program correct adru agillila andru idu run agute ade final block
+//    }
+//   }
+// }
+
+
