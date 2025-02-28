@@ -377,3 +377,28 @@
 //     myObj.myPublicMethod(); // Call the public method on the object
 //   }
 // }
+
+
+
+//input method and packages
+
+
+// package com.akash.english;
+
+// import java.util.Scanner;
+
+// public class test {
+
+// 	public static void main(String[] args) {
+// 		// TODO Auto-generated method stub
+// 		Scanner sc=new Scanner(System.in);
+// 		System.out.print("Enter the name : ");
+// 		String a = sc.nextLine();
+// 		System.out.print("Enter the course choosen : ");
+// 		String b = sc.nextLine();
+// 		System.out.println("your name is "+a+" " +"your course is"+" "+b);
+		
+
+// 	}
+
+// }
