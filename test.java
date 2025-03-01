@@ -402,3 +402,25 @@
 // 	}
 
 // }
+
+// package com.akash.english;
+
+// import java.util.Scanner;
+
+// public class Test {
+
+// 	public static void main(String[] args) {
+// 		// TODO Auto-generated method stub
+// 		Scanner sc=new Scanner(System.in);
+
+		
+//         int balance =1000;
+//         System.out.println("the account balance is "+balance);
+//         System.out.println("enter the amount which is should be added");
+//         int updatedBalance =balance +sc.nextInt();
+//         System.out.println(" the amount in your account is : "+updatedBalance);
+        
+        
+// 	}
+
+// }
